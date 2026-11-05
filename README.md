@@ -105,4 +105,4 @@ to disclosure.
 
 ## `05 // CONTACT`
 
-Galih — aswdah1213@gmail.com — Telegram [@Galih1214](https://t.me/Galih1214)
+Galih — aswdah1213@gmail.com — Telegram [@Galih121343](https://t.me/Galih121343)
