@@ -30,3 +30,6 @@ Six leaked account records were exposed by the flaw. I offered to help clean
 them up and to re-test once the fix shipped. I downloaded nothing beyond what
 the unauthenticated endpoint itself returned, and deleted what I had pulled
 after analysis.
+
+The vendor has resolved the issue, which is why this one is published. The
+other findings I have reported are not, because they are still open.

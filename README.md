@@ -1,37 +1,33 @@
 # Hunt Log
 
-Public tracker for my bug bounty and vulnerability disclosure work.
+Public record of my bug bounty and vulnerability disclosure work.
 
-Everything here is a summary: what I hunted, when, what severity it landed at,
-and whether it's still pending or paid. No technical detail, no endpoints, no
-proof-of-concept code. Vendors get full reports privately first, and anything
-still inside a disclosure window stays off this list until it closes.
+This repo only lists findings that a vendor has **accepted and paid for**.
+Anything still pending, still unfixed, or still inside a disclosure window
+stays off this list. Publishing an unpatched vulnerability helps nobody and
+puts users at risk, so it does not go here.
 
-## Tracker
+## Paid findings
 
 | # | Target | Severity | Date | Status |
 |---|---|---|---|---|
-| 1 | Noves / Palladium | Critical | 2026-11-03 | Pending |
-| 2 | Alvin | Medium | 2026-11-05 | Pending |
-| 3 | PulseMonitor | Low | 2026-11-05 | Pending |
-| 4 | Dolomite | Low | 2026-11-04 | Pending |
-| 5 | Omnipair | High | 2026-10-23 | Pending |
-| 6 | Bulk Trade | Medium | 2026-11-02 | Withdrawn (false positive) |
-| 7 | BetterTeam | — | 2026-10-26 | Pending (test plan) |
-| 8 | Noves / Palladium | Medium | 2026-10-16 | **Paid — $250** |
+| 1 | Noves / Palladium | Medium | 2026-10-16 | **Paid — $250** |
 
 ## Status meanings
 
-- **Pending** — reported, waiting on vendor response
-- **Paid** — vendor accepted and paid
-- **Withdrawn** — I tested my own finding, it did not hold up, and I pulled it
+- **Paid** — vendor accepted the report, fixed it, and paid for it
+
+That is the only status that appears here. Pending, withdrawn, and disputed
+findings are tracked privately and are not published until a vendor has
+resolved them and agreed to disclosure.
 
 ## Notes
 
-- Findings are only listed once they have been verified and reported.
 - Dates are the report date, not the discovery date.
-- I keep severity ratings honest. Where a vendor disagreed, I say so rather
-  than quietly dropping the entry.
+- I keep severity ratings honest, and I do not inflate them to chase a higher
+  bounty tier.
+- Full technical write-ups are shared with the vendor privately. Only the
+  summary lands here, and only after the issue is closed.
 
 ## Contact
 
