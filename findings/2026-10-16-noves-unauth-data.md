@@ -5,7 +5,7 @@
 | **Target** | Noves data app (noves.canton.palladiumlabs.org) |
 | **Reported** | 2026-10-16 |
 | **Severity** | Medium (self-assessed) |
-| **Status** | **Paid — $250** |
+| **Status** | **Resolved** |
 | **Channel** | Direct vendor disclosure |
 
 ## Summary
@@ -18,11 +18,11 @@ timestamps.
 
 The vendor acknowledged the report and confirmed it was resolved. They
 explained that they do not run a bounty program and do not normally expect
-unsolicited reports, then researched typical rates for a Medium and offered
-$250, paid via PayPal.
+unsolicited reports, then researched typical rates for a Medium and offered a
+goodwill payment, which they sent via PayPal.
 
-I took the $250. It was offered as a goodwill payment rather than a bounty,
-and the report was accepted on its merits.
+I took it. It was offered as a goodwill payment rather than a bounty, and the
+report was accepted on its merits.
 
 ## Notes
 

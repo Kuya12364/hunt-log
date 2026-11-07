@@ -1,8 +1,12 @@
 # hunt-log
 
-Public record of paid and resolved security research.
+Public record of resolved security research.
 
-This repo lists findings a vendor has **accepted, fixed, and paid for**.
+This repo lists findings a vendor has **accepted and fixed**. Some carried a
+payment, some did not, because not every vendor runs a bounty program. What
+every entry here has in common is that the issue is closed and the vendor's
+disclosure terms allow it to be published.
+
 Anything still pending, still unfixed, or still inside a disclosure window
 stays off this list. Publishing an unpatched vulnerability puts users at
 risk, so it does not go here.
@@ -74,13 +78,12 @@ gets downgraded and costs credibility on the next one.
 
 ## `03 // HUNT LOG`
 
-Paid and resolved findings only.
+Resolved findings only.
 
 | # | Target | Severity | Date | Status |
 |---|---|---|---|---|
-| 1 | Noves / Palladium | Medium | 2026-10-16 | **Paid — $250** |
-
-**Total paid: $250**
+| 1 | Alvin | Medium | 2026-11-05 | **Resolved** |
+| 2 | Noves / Palladium | Medium | 2026-10-16 | **Resolved** |
 
 Other findings I have reported are not listed here, because they are still
 open with their vendors. They get added when the vendor closes them and agrees
