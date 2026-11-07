@@ -11,5 +11,7 @@ to disclosure.
 
 | File | Target | Severity | Status |
 |---|---|---|---|
+| [2026-11-06-blazecoin-lite-wallet-header-timestamp.md](2026-11-06-blazecoin-lite-wallet-header-timestamp.md) | Blazecoin Lite Wallet | Medium | **Resolved** |
+| [2026-11-06-blazecoin-website-reset-enumeration.md](2026-11-06-blazecoin-website-reset-enumeration.md) | Blazecoin website | Low | **Resolved** |
 | [2026-11-05-alvin-location-unauth-read.md](2026-11-05-alvin-location-unauth-read.md) | Alvin | Medium | **Resolved** |
 | [2026-10-16-noves-unauth-data.md](2026-10-16-noves-unauth-data.md) | Noves / Palladium | Medium | **Resolved** |
